@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-draw.io is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://drawio.com/
+draw.io provides a security‑first diagramming platform for teams and individuals, offering both online and desktop editors that store data wherever users choose. The tool supports real‑time collaboration, integrates with Google Drive, Microsoft OneDrive, Atlassian Confluence, GitHub, Notion, and many other services. It is Apache‑2.0 licensed, independent, and not VC‑funded, emphasizing privacy by never accessing user files. Over 100 million users have used draw.io since 2005, and the service is available without sign‑up or payment.
+
+**Areas:** Diagramming · Collaboration · OpenSource · Privacy · Integration · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://drawio.com/)
+- [Documentation](https://www.drawio.com/docs/)
+- [Getting started](https://www.drawio.com/docs/getting-started/)
+- [API reference](https://www.drawio.com/docs/reference/)
+- [Support](https://www.drawio.com/support/)
+- [Blog](https://www.drawio.com/blog/)
+- [Trust centre](https://www.drawio.com/trust/)
+- [Privacy policy](https://www.drawio.com/trust/terms-of-use/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/drawio/](https://apis.io/providers/drawio/).
